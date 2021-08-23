@@ -1,0 +1,28 @@
+.bottom-5 {
+  bottom: 5%;
+}
+
+.top-5 {
+  top: 3%;
+}
+
+.top-10 {
+  top: 10%;
+}
+
+.top-40 {
+  top: 40%;
+}
+
+.left-90 {
+  left: 90%;
+}
+
+.right-4 {
+  right: 4%;
+}
+
+.centered {
+  left: 50%;
+  transform: translate(-50%, 0);
+}

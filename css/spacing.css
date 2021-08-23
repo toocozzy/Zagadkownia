@@ -1,0 +1,27 @@
+.mt-6 {
+  margin-top: 60px;
+}
+
+.mt-8 {
+  margin-top: 80px;
+}
+
+.mb-8 {
+  margin-bottom: 80px;
+}
+.mt-10 {
+  margin-top: 150px;
+}
+
+.mt-20 {
+  margin-top: 300px;
+}
+
+.my-20 {
+  margin-top: 200px;
+  margin-bottom: 200px;
+}
+
+.w-5 {
+  width: 5%;
+}
