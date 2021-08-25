@@ -22,6 +22,7 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
   min-height: 100vh;
+  scroll-snap-align: start;
 }
 
 .room-2 {
@@ -35,6 +36,7 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
   min-height: 100vh;
+  scroll-snap-align: start;
 }
 
 .room-3 {
@@ -48,6 +50,7 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
   min-height: 100vh;
+  scroll-snap-align: start;
 }
 
 .room-4 {
@@ -61,6 +64,7 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
   min-height: 100vh;
+  scroll-snap-align: start;
 }
 
 .room-5 {
@@ -74,6 +78,7 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
   min-height: 100vh;
+  scroll-snap-align: start;
 }
 
 .cannibal-welcome-section {
@@ -353,6 +358,10 @@ li {
   display: none;
 }
 
+.menu-wrapper {
+  height: 100vh;
+}
+
 .main-menu.active {
   position: fixed;
   left: 0;
@@ -378,4 +387,10 @@ i.fas {
 
 i.show {
   display: block;
+}
+
+main {
+  scroll-snap-type: y mandatory;
+  overflow-y: scroll;
+  height: 100vh;
 }

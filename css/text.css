@@ -71,6 +71,10 @@
   font-family: "Montserrat", sans-serif;
 }
 
+.room-name {
+  font-size: 89px;
+}
+
 li.room:hover {
   text-decoration: underline;
 }
