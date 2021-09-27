@@ -17,7 +17,7 @@ body {
       rgba(0, 0, 0, 1),
       rgba(0, 0, 0, 0.1)
     ),
-    url(img/room-1.PNG);
+    url("img/room-1.png");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -111,7 +111,7 @@ body {
 
 .rules-welcome-section {
   background-image: linear-gradient(to top, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0)),
-    url(img/default-bckg.png);
+    url("img/default-bckg.png");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
