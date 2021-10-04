@@ -31,7 +31,7 @@ body {
       rgba(0, 0, 0, 1),
       rgba(0, 0, 0, 0.1)
     ),
-    url(img/room-2.png);
+    url("./../img/room-2.png");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -45,7 +45,7 @@ body {
       rgba(0, 0, 0, 1),
       rgba(0, 0, 0, 0.1)
     ),
-    url(img/room-3.png);
+    url("./../img/room-3.png");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -59,7 +59,7 @@ body {
       rgba(0, 0, 0, 1),
       rgba(0, 0, 0, 0.1)
     ),
-    url(img/room-4.png);
+    url("./../img/room-4.png");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -73,7 +73,7 @@ body {
       rgba(0, 0, 0, 1),
       rgba(0, 0, 0, 0.1)
     ),
-    url(img/room-5.png);
+    url("./../img/room-5.png");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -87,7 +87,7 @@ body {
       rgba(0, 0, 0, 1),
       rgba(0, 0, 0, 0.2)
     ),
-    url(img/room-1.png);
+    url("./../img/room-1.png");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -96,7 +96,7 @@ body {
 
 .vouchers-welcome-section {
   background-image: linear-gradient(to top, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0)),
-    url(img/default-bckg.png);
+    url("./../img/default-bckg.png");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -111,7 +111,7 @@ body {
 
 .rules-welcome-section {
   background-image: linear-gradient(to top, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0)),
-    url("img/default-bckg.png");
+    url("./../img/default-bckg.png");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -126,7 +126,7 @@ body {
 
 .events-welcome-section {
   background-image: linear-gradient(to top, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0)),
-    url(img/default-bckg.png);
+    url("./../img/default-bckg.png");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -141,7 +141,7 @@ body {
 
 .about-welcome-section {
   background-image: linear-gradient(to top, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0)),
-    url(img/rooms-bckg.png);
+    url("./../img/rooms-bckg.png");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
